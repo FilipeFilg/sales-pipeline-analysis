@@ -11,7 +11,7 @@
 
 ##  Dashboard
 
-![Dashboard de Vendas](powerbi/screenshots/dashboard.png)
+![Dashboard de Vendas](powerbi\screenshots\dashboard.jpg)
 
 ---
 
