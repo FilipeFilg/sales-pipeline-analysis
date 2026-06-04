@@ -1,0 +1,81 @@
+produto_id,nome,categoria,preco_custo,preco_venda,margem_pct,estoque,ativo,fornecedor
+1,Lite Sit Beleza,Beleza,95.55,212.07,54.9,166,True,Marques
+2,Ultra Molestiae Beleza,Beleza,70.85,159.24,55.5,406,True,Sampaio Nunes S/A
+3,Eco Mollitia Esportes,Esportes,288.62,762.92,62.2,173,True,da Costa S.A.
+4,Eco Harum Brinquedos,Brinquedos,130.59,200.21,34.8,160,True,Rios
+5,Plus Atque Livros,Livros,71.84,169.65,57.7,34,True,Monteiro Jesus - EI
+6,Lite Cupiditate Vestuário,Vestuário,29.49,45.27,34.9,190,True,Barbosa
+7,Smart Corporis Eletrônicos,Eletrônicos,1344.36,2939.07,54.3,343,True,Jesus
+8,Eco Odio Livros,Livros,66.48,180.66,63.2,444,False,da Cunha Costela - EI
+9,Smart Aperiam Eletrônicos,Eletrônicos,2180.79,4886.22,55.4,53,True,Alves
+10,Neo Aut Esportes,Esportes,114.06,236.68,51.8,55,True,Garcia
+11,Elite Laboriosam Livros,Livros,15.66,28.03,44.1,413,True,Correia
+12,Lite Nam Eletrônicos,Eletrônicos,1393.7,3234.73,56.9,136,True,Albuquerque Ltda.
+13,Smart Cum Beleza,Beleza,106.9,195.9,45.4,179,True,Duarte Rios e Filhos
+14,Max Officiis Casa,Casa & Jardim,258.27,506.49,49.0,379,True,Martins
+15,Eco Atque Eletrônicos,Eletrônicos,260.95,559.13,53.3,214,True,Novaes e Filhos
+16,Turbo Exercitationem Casa,Casa & Jardim,171.52,413.4,58.5,482,True,Carvalho
+17,Turbo Optio Vestuário,Vestuário,178.02,288.0,38.2,316,True,Castro
+18,Plus Dolores Vestuário,Vestuário,63.11,146.84,57.0,310,True,Pereira S/A
+19,Smart Dolorum Beleza,Beleza,36.37,77.01,52.8,220,True,Campos
+20,Elite Quibusdam Alimentos,Alimentos,35.91,65.78,45.4,202,False,Cavalcante
+21,Elite Autem Eletrônicos,Eletrônicos,76.83,139.98,45.1,392,True,Rocha Ltda.
+22,Plus Dolor Beleza,Beleza,47.07,73.8,36.2,382,True,Fogaça
+23,Mini Dolorum Casa,Casa & Jardim,176.01,419.81,58.1,286,True,Silva Andrade e Filhos
+24,Pro Quibusdam Livros,Livros,12.79,33.34,61.6,223,True,Macedo Sampaio S/A
+25,Grande Tempora Vestuário,Vestuário,174.03,383.92,54.7,207,True,Gomes e Filhos
+26,Smart Inventore Brinquedos,Brinquedos,93.92,184.74,49.2,87,True,Aragão
+27,Ultra Sapiente Alimentos,Alimentos,54.64,146.85,62.8,223,True,Aragão - ME
+28,Ultra Eligendi Esportes,Esportes,292.17,572.84,49.0,202,True,Freitas da Costa S.A.
+29,Ultra Consectetur Livros,Livros,22.8,56.79,59.9,261,True,Leão S/A
+30,Lite Accusantium Esportes,Esportes,590.31,1115.17,47.1,490,True,Correia
+31,Elite Vero Casa,Casa & Jardim,112.39,180.39,37.7,88,True,Câmara S/A
+32,Plus Vel Vestuário,Vestuário,45.26,112.33,59.7,237,True,Silveira Cavalcante S/A
+33,Premium Nesciunt Alimentos,Alimentos,45.37,119.54,62.0,325,False,Duarte Ltda.
+34,Max Ratione Livros,Livros,65.86,150.04,56.1,225,True,Pinto Costela - EI
+35,Grande Nam Alimentos,Alimentos,42.32,106.43,60.2,28,True,Campos
+36,Pro Eveniet Vestuário,Vestuário,70.31,142.92,50.8,188,True,Caldeira Fogaça Ltda.
+37,Ultra Doloribus Vestuário,Vestuário,133.15,368.6,63.9,314,True,Guerra e Filhos
+38,Turbo Ipsam Brinquedos,Brinquedos,144.14,313.65,54.0,378,True,Gomes S.A.
+39,Elite Officia Alimentos,Alimentos,59.37,130.63,54.6,164,True,Azevedo Ribeiro Ltda.
+40,Turbo Totam Casa,Casa & Jardim,431.26,875.77,50.8,460,True,Aparecida
+41,Elite Atque Vestuário,Vestuário,106.81,175.34,39.1,362,True,Jesus da Rosa - EI
+42,Smart Praesentium Alimentos,Alimentos,35.73,80.53,55.6,190,False,Silva - EI
+43,Grande Reiciendis Brinquedos,Brinquedos,128.5,240.77,46.6,26,True,da Cunha Brito - EI
+44,Premium Itaque Livros,Livros,12.38,18.97,34.7,197,True,Rocha
+45,Max Voluptate Casa,Casa & Jardim,155.3,344.12,54.9,469,True,Farias Cavalcanti e Filhos
+46,Ultra Voluptas Brinquedos,Brinquedos,47.35,113.28,58.2,158,True,Rios
+47,Neo Perspiciatis Livros,Livros,62.44,145.99,57.2,484,True,Farias S/A
+48,Smart Sequi Vestuário,Vestuário,133.41,265.86,49.8,9,True,Garcia
+49,Turbo Quaerat Casa,Casa & Jardim,428.37,804.66,46.8,248,True,Montenegro Pastor e Filhos
+50,Turbo Accusantium Casa,Casa & Jardim,76.44,138.67,44.9,51,True,Almeida Pimenta S/A
+51,Grande Ipsa Eletrônicos,Eletrônicos,1509.63,3965.72,61.9,67,True,Sousa Lima S.A.
+52,Turbo Sit Casa,Casa & Jardim,79.67,204.26,61.0,319,True,Araújo S.A.
+53,Smart Minima Casa,Casa & Jardim,326.72,477.39,31.6,346,True,da Rocha
+54,Turbo Eligendi Alimentos,Alimentos,41.04,100.69,59.2,229,True,Garcia Costela e Filhos
+55,Plus Amet Esportes,Esportes,212.16,537.2,60.5,462,True,Silveira Peixoto - ME
+56,Plus Iure Livros,Livros,53.4,117.4,54.5,236,True,da Mota Dias e Filhos
+57,Max Animi Brinquedos,Brinquedos,155.8,309.44,49.7,418,True,Ramos
+58,Plus Illo Casa,Casa & Jardim,393.82,580.12,32.1,447,True,da Conceição e Filhos
+59,Ultra Iure Vestuário,Vestuário,145.7,309.22,52.9,145,True,da Cruz
+60,Max Enim Casa,Casa & Jardim,128.53,342.84,62.5,425,True,Rios S.A.
+61,Air Vitae Esportes,Esportes,533.74,1408.26,62.1,13,True,Pereira Garcia - EI
+62,Ultra Iste Brinquedos,Brinquedos,155.54,269.1,42.2,191,True,Macedo Pires S/A
+63,Premium At Livros,Livros,70.32,181.06,61.2,171,True,Azevedo
+64,Plus Earum Casa,Casa & Jardim,24.89,66.81,62.7,356,True,Porto S.A.
+65,Ultra Enim Alimentos,Alimentos,31.1,43.77,28.9,9,True,Borges Cavalcanti - EI
+66,Mini Quo Casa,Casa & Jardim,250.53,605.81,58.6,216,True,da Costa Montenegro S/A
+67,Elite Nobis Beleza,Beleza,39.57,62.15,36.3,214,True,das Neves
+68,Plus Doloremque Alimentos,Alimentos,7.42,19.08,61.1,305,True,da Cruz Lima S.A.
+69,Pro Sequi Esportes,Esportes,471.51,852.39,44.7,314,True,da Rosa da Paz - EI
+70,Mini Occaecati Brinquedos,Brinquedos,64.28,150.13,57.2,499,True,da Mata Viana - ME
+71,Premium Beatae Eletrônicos,Eletrônicos,915.09,1883.43,51.4,198,False,Gonçalves
+72,Ultra Minus Beleza,Beleza,113.36,215.38,47.4,176,True,Melo Macedo - ME
+73,Smart Quae Vestuário,Vestuário,156.99,381.37,58.8,68,True,Teixeira
+74,Turbo Dolor Livros,Livros,62.46,102.75,39.2,350,True,Almeida
+75,Ultra Modi Alimentos,Alimentos,42.34,107.38,60.6,366,True,Barros
+76,Turbo In Alimentos,Alimentos,5.83,9.81,40.6,102,True,Novaes Siqueira S.A.
+77,Neo Facere Livros,Livros,70.49,149.55,52.9,278,True,Martins
+78,Smart Inventore Eletrônicos,Eletrônicos,1709.71,2851.02,40.0,441,True,da Paz
+79,Eco Minus Livros,Livros,26.26,66.15,60.3,455,True,Barbosa
+80,Max Iusto Alimentos,Alimentos,58.48,113.53,48.5,254,True,Silva Melo S.A.
